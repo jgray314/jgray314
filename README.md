@@ -4,7 +4,7 @@ Most recently at Block (Square), I led a distributed Fraud Risk Engineering orga
 
 Before that, I led ML infrastructure and data platform teams at Sift, owning production model training and serving at petabyte scale, and spent more than a decade at Google building distributed systems for products used by over a billion users.
 
-I also build with AI coding agents myself. It keeps me close to what my reports and the industry are dealing with, and it lets me test ideas about review, evaluation, and where humans stay in the loop before I recommend them to a team. My essays are in Featured, and the projects and working rules are on GitHub: github.com/jgray314
+I also build with AI coding agents myself. It keeps me close to what my reports and the industry are dealing with, and it lets me test ideas about review, evaluation, and where humans stay in the loop before I recommend them to a team.
 
 I'm most energized by problems that combine organizational complexity with technically challenging systems: high-stakes platforms where reliability, scale, and operational correctness matter deeply.
 
