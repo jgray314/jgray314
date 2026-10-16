@@ -1,6 +1,6 @@
 I lead engineering organizations in high-stakes environments, and I write about how AI is changing the work of managing them.
 
-Most recently at Block (Square), I led a distributed Fraud Risk Engineering organization of 17 engineers, including two engineering managers, across five countries, protecting over $200B in annual payment volume. [One sentence here on how you led or used AI with your teams, if you have a real example.] Alongside the technical outcomes, I focus on developing managers, shaping operating models, and leading through organizational change.
+Most recently at Block (Square), I led a distributed Fraud Risk Engineering organization of 17 engineers, including two engineering managers, across five countries, protecting over $200B in annual payment volume. Alongside the technical outcomes, I focus on developing managers, shaping operating models, and leading through organizational change.
 
 Before that, I led ML infrastructure and data platform teams at Sift, owning production model training and serving at petabyte scale, and spent more than a decade at Google building distributed systems for products used by over a billion users.
 
