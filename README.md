@@ -1,13 +1,12 @@
-Engineering leader in Seattle. I lead engineering teams in high-stakes
-environments. Most recently I led Fraud Risk Engineering at Block (Square): 17 engineers, two
-managers, five countries. Before that, ML infrastructure at Sift and over a
-decade of distributed systems at Google.
+I lead engineering organizations in high-stakes environments, and I write about how AI is changing the work of managing them.
 
-I write about how AI changes the job of engineering management.
-I also build with AI coding agents myself. It keeps me close to what my
-reports and the industry are dealing with, and it lets me test ideas about
-review, evaluation and where humans stay in the loop before I recommend them
-to a team.
+Most recently at Block (Square), I led a distributed Fraud Risk Engineering organization of 17 engineers, including two engineering managers, across five countries, protecting over $200B in annual payment volume. [One sentence here on how you led or used AI with your teams, if you have a real example.] Alongside the technical outcomes, I focus on developing managers, shaping operating models, and leading through organizational change.
+
+Before that, I led ML infrastructure and data platform teams at Sift, owning production model training and serving at petabyte scale, and spent more than a decade at Google building distributed systems for products used by over a billion users.
+
+I also build with AI coding agents myself. It keeps me close to what my reports and the industry are dealing with, and it lets me test ideas about review, evaluation, and where humans stay in the loop before I recommend them to a team. My essays are in Featured, and the projects and working rules are on GitHub: github.com/jgray314
+
+I'm most energized by problems that combine organizational complexity with technically challenging systems: high-stakes platforms where reliability, scale, and operational correctness matter deeply.
 
 ## Writing
 
