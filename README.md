@@ -21,6 +21,8 @@ Essays on managing engineering teams in the AI era are on
 - **[jscc](https://github.com/jgray314/jscc)**: a job-search tracker built
   with an agent, with ADRs, a threat model, evals with stated bars, and a
   person in the loop for anything non-routine.
-- **[gostudy](https://github.com/jgray314/gostudy)**,
-  **[nonogram](https://github.com/jgray314/nonogram)**: smaller projects,
+- **[gostudy](https://github.com/jgray314/gostudy)**: smaller projects,
   written by hand, to learn a language or try an idea.
+- **[nonogram](https://github.com/jgray314/nonogram)**: a personal project
+  accelerated with AI development, used to refine my understanding of AI
+  development working best practices.
